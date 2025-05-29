@@ -1,4 +1,4 @@
-# Calculadora de Carbono - Desktop
+# Calculadora de Emergia na IA - Desktop
 Este repositório contém a versão desktop da aplicação Calculadora de Emergia na IA, desenvolvida com JAVA e Swing, como parte da Atividade Prática Supervisionada (APS) do curso de Bacharelado em Ciência da Computação.
 
 ## Tecnologias Utilizadas
